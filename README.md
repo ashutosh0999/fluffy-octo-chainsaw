@@ -1,2 +1,2 @@
 # fluffy-octo-chainsaw
-here are some android application
+here are some android application program.
